@@ -1,0 +1,27 @@
+{
+  "name": "translate-to-foreign",
+  "version": "1.0.0",
+  "description": "A handy utility for translating English text to foreign languages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alxndrsn/translate-to-foreign.git"
+  },
+  "keywords": [
+    "i18n",
+    "internationalisation",
+    "l10n",
+    "localisation",
+    "translate",
+    "en"
+  ],
+  "author": "alxndrsn",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/alxndrsn/translate-to-foreign/issues"
+  },
+  "homepage": "https://github.com/alxndrsn/translate-to-foreign#readme"
+}
